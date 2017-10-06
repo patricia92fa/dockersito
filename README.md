@@ -1,7 +1,6 @@
 # CEF, Kafka and Logstash
 
 ![Cloud Docker](https://blog.pandorafms.org/wp-content/uploads/2016/03/docker-cloud-logo.png?raw=true)
-
 This example provides the supporting fiels to the blog post [Integrating the Elastic Stack with ArcSight SIEM - Part 3](https://www.elastic.co/blog/integrating-elastic-stack-with-arcsight-siem-part-3).
 
 This provides a working example of scaling an ArcSight-Elasticsearch architecture. A full architectural description can be found in the above blog post.
